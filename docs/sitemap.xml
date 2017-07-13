@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://auryn31.github.io/homepage/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://auryn31.github.io/homepage/de/sitemap.xml</loc>
-		
-	   	<lastmod>2017-03-02T11:59:27-05:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://auryn31.github.io/homepage/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://auryn31.github.io/homepage/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://auryn31.github.io/homepage/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

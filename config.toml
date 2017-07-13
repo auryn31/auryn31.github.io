@@ -3,6 +3,7 @@ baseurl = "https://auryn31.github.io/homepage/"
 languageCode = "en-us"
 title = "Auryns Website"
 theme = "freelancer"
+publishDir = "docs"
 
 
 [params]
