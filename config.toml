@@ -1,4 +1,4 @@
-baseurl = "https://auryn31.github.io/"
+baseurl = "https://auryn31.github.io/homepage/"
 title = "Homepage Auryn"
 publishDir = "docs"
 theme = "dimension"
