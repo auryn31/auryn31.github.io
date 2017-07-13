@@ -548,7 +548,7 @@ img {
     /*left: 50%;*/
     top: 20px;
     bottom: 20px;
-    margin-left: 30px;
+    margin-left: 28px;
 }
 
 .timeline-centered .timeline-entry {
@@ -622,7 +622,7 @@ img {
     .timeline-centered .timeline-entry .timeline-entry-inner {
         position: relative;
         margin-left: -20px;
-        margin-right: 20px;
+        /*margin-right: 20px;*/
     }
 
     .timeline-centered .timeline-entry .timeline-entry-inner:before, .timeline-centered .timeline-entry .timeline-entry-inner:after {
@@ -647,7 +647,7 @@ img {
         position: absolute;
         left: -100px;
         text-align: right;
-        padding: 10px;
+        padding: 20px;
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
