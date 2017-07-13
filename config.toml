@@ -69,6 +69,8 @@ publishDir = "docs"
             link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
             icon = "download"
 
+    [params.curriculum]
+            title = "Curriculum Vitae"
 
     [params.contact]
         title = "Contact"
