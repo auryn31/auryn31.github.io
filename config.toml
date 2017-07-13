@@ -1,9 +1,9 @@
-baseurl = "https://auryn31.github.io/homepage/"
+baseURL = "https://auryn31.github.io/homepage/"
 title = "Homepage Auryn"
 publishDir = "docs"
 theme = "dimension"
 languageCode = "en-us"
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 enableRobotsTXT = true
 disableRSS = true
 
