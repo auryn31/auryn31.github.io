@@ -1,8 +1,8 @@
 modalID: 4
-title: Schulungen
-date: 2014-07-16
+title: Home Controll with Raspberry Pi
+date: 2017-05-30
 img: planning.jpeg
 client: "-"
-clientLink: "#"
-category: Tetsting
-description: As a student, i hold some courses to introduce software and customize it.
+clientLink: "//github.com/auryn31/RaspberryPiHomeControlWeb"
+category: Web Development
+description: HomeController with Raspberry Pi -> Webinterface with Bootstrap, Host a local site with an apache server. You can turn on and off the pins by adding them above the Webinterface. It also allows you, to start an clock, so the light goes at an specific time on.

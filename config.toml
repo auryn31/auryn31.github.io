@@ -49,7 +49,7 @@ publishDir = "docs"
         # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
         # at the root of this Hugo site.
         # For more informtion take a look at the README.
-        title = "Portfolio"
+        title = "Experience"
 
         [params.portfolio.modal]
             client = "Client"
@@ -60,14 +60,13 @@ publishDir = "docs"
 
     [params.about]
         title = "About"
-        # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
+        left = "I am a student at the university Leipzig. My current goal is the graduation with a master of science in computer science. I graduated from the HTWK as one of 7 students. We started with about 70 students."
+        right = "This is a work robe of mine, so they can get a picture of what my current status is and what they can expect from me. My tasks i do with best knowledge and certain and hope to be able to satisfy my customers."
 
-        [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
-            icon = "download"
+        # [params.about.button]
+        #     text = "Download theme"
+        #     link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
+        #     icon = "download"
 
     [params.curriculum]
             title = "Curriculum Vitae"
@@ -102,7 +101,7 @@ publishDir = "docs"
         [params.footer.location]
             title = "Location"
             # Postal address (add as many lines as necessary)
-            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
+            address = ["Augustusplatz 10", "04109 Leipzig"]
 
         [params.footer.social]
             title = "Around the web"
@@ -111,13 +110,20 @@ publishDir = "docs"
             # CSS class.
             [[params.footer.social.networks]]
                 icon = "fa-github"
-                link = "//github.com/spf13/hugo"
+                link = "//github.com/auryn31"
 
             [[params.footer.social.networks]]
                 icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
+                link=  "//stackoverflow.com/users/7927982/auryn31"
 
+            [[params.footer.social.networks]]
+                icon = "fa-facebook"
+                link=  "//www.facebook.com/"
+
+            [[params.footer.social.networks]]
+                icon = "fa-xing"
+                link=  "//www.xing.com/profile/"
 
         [params.footer.credits]
             title = "About Freelancer"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com). Icons by [DryIcons](//dryicons.com)"
+            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com). Icons by [DryIcons](//dryicons.com). Pictures from [mmtstock](http://mmtstock.com/collection/work-tech/)"

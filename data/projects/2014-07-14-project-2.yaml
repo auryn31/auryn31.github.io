@@ -1,8 +1,8 @@
 modalID: 2
-title: iOS Development
+title: Radio Streaming Application 
 date: 2014-07-14
 img: iosDev.jpeg
-client: APPSfactory
-clientLink: "#"
+client: ""
+clientLink: "https://github.com/auryn31/radioStreamDiagram"
 category: iOS Development
-description: I start do develop iOS Apps in 2016 at EWERK. Since March 2017 I work for APPSfactory as Student for iOS development.
+description: Create an streaming app, to show the current network usage as an diagram. Implemented in swift for iOS and in Java for Android.

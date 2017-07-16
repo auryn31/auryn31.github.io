@@ -1,8 +1,8 @@
 modalID: 3
-title: Open Source
-date: 2014-07-15
+title: SmartMirrow
+date: 2017-05-15
 img: openSource.jpeg
-client: GitHub.com
-clientLink: "https://github.com/auryn31"
+client: ""
+clientLink: "https://github.com/auryn31/SmartMirrow"
 category: Web Development
-description: Some custom stuff for myself to push open source software on github.
+description: Smart mirrow with current news from [weird](//weird.com), the current time and date, the weather and an calendar abonement from my own calendar.
