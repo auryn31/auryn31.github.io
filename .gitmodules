@@ -4,3 +4,9 @@
 [submodule "themes/freelancer"]
 	path = themes/freelancer
 	url = https://github.com/digitalcraftsman/hugo-freelancer-theme.git
+[submodule "theme/freelancer-theme"]
+	path = theme/freelancer-theme
+	url = https://github.com/auryn31/hugo-freelancer-theme.git
+[submodule "themes/freelancer-theme"]
+	path = themes/freelancer-theme
+	url = https://github.com/auryn31/hugo-freelancer-theme.git

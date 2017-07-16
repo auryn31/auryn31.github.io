@@ -2,7 +2,7 @@
 baseurl = "https://auryn31.github.io/homepage/"
 languageCode = "en-us"
 title = "Auryns Website"
-theme = "freelancer"
+theme = "freelancer-theme"
 publishDir = "docs"
 
 
